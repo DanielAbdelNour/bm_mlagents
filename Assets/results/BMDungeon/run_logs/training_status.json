@@ -1,0 +1,48 @@
+{
+    "BMDungeon": {
+        "checkpoints": [
+            {
+                "steps": 2499963,
+                "file_path": "results/BMDungeon/BMDungeon/BMDungeon-2499963.onnx",
+                "reward": 5.107143004735311,
+                "creation_time": 1607245894.21031
+            },
+            {
+                "steps": 2999894,
+                "file_path": "results/BMDungeon/BMDungeon/BMDungeon-2999894.onnx",
+                "reward": 6.625,
+                "creation_time": 1607246646.421342
+            },
+            {
+                "steps": 3499975,
+                "file_path": "results/BMDungeon/BMDungeon/BMDungeon-3499975.onnx",
+                "reward": 5.218552552555737,
+                "creation_time": 1607247374.661414
+            },
+            {
+                "steps": 3999948,
+                "file_path": "results/BMDungeon/BMDungeon/BMDungeon-3999948.onnx",
+                "reward": 5.602777631746398,
+                "creation_time": 1607248064.926173
+            },
+            {
+                "steps": 4000009,
+                "file_path": "results/BMDungeon/BMDungeon/BMDungeon-4000009.onnx",
+                "reward": 5.644210355846505,
+                "creation_time": 1607248064.9788768
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4000009,
+            "file_path": "results/BMDungeon/BMDungeon.onnx",
+            "reward": 5.644210355846505,
+            "creation_time": 1607248064.9788768
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.0",
+        "tensorflow_version": -1
+    }
+}
